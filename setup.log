@@ -1,0 +1,1086 @@
+npm install
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+npm WARN cleanup Failed to remove some directories [
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/aproba',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/aproba'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/aproba'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/available-typed-arrays',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/available-typed-arrays'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/available-typed-arrays'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/array.prototype.flat',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/array.prototype.flat'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/array.prototype.flat'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/bindings',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/bindings'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/bindings'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/arraybuffer.prototype.slice',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/arraybuffer.prototype.slice'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/arraybuffer.prototype.slice'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/clone-deep',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/clone-deep'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/clone-deep'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/balanced-match',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/balanced-match'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/balanced-match'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/console-control-strings',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/console-control-strings'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/console-control-strings'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/depd',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/depd'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/depd'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/defer-to-connect',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/defer-to-connect'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/defer-to-connect'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/es-errors',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/es-errors'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/es-errors'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/dotenv',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/dotenv'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/dotenv'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/delegates',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/delegates'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/delegates'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/concat-map',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/concat-map'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/concat-map'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/chalk',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/chalk'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/chalk'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/co',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/co'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/co'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/exit',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/exit'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/exit'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/es-shim-unscopables',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/es-shim-unscopables'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/es-shim-unscopables'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/fastest-levenshtein',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/fastest-levenshtein'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/fastest-levenshtein'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/fastq',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/fastq'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/fastq'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/fs.realpath',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/fs.realpath'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/fs.realpath'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/esm',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/esm'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/esm'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/file-uri-to-path',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/file-uri-to-path'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/file-uri-to-path'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/get-caller-file',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/get-caller-file'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/get-caller-file'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/fs-constants',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/fs-constants'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/fs-constants'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/graceful-fs',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/graceful-fs'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/graceful-fs'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/has-property-descriptors',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/has-property-descriptors'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/has-property-descriptors'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/get-symbol-description',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/get-symbol-description'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/get-symbol-description'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-arrayish',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-arrayish'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-arrayish'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-data-view',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-data-view'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-data-view'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-core-module',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-core-module'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-core-module'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-extglob',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-extglob'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-extglob'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-number-object',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-number-object'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-number-object'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-installed-globally',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-installed-globally'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-installed-globally'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-promise',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-promise'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-promise'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/istanbul-lib-instrument',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/istanbul-lib-instrument'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/istanbul-lib-instrument'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/jest-changed-files',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/jest-changed-files'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/jest-changed-files'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-typed-array',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-typed-array'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-typed-array'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/is-negative-zero',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/is-negative-zero'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/is-negative-zero'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/istanbul-lib-coverage',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/istanbul-lib-coverage'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/istanbul-lib-coverage'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/jest',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/jest'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/jest'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/levn',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/levn'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/levn'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/jest-util',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/jest-util'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/jest-util'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/json-schema-traverse',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/json-schema-traverse'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/json-schema-traverse'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/light-my-request',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/light-my-request'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/light-my-request'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/jest-mock',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/jest-mock'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/jest-mock'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/lodash.castarray',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/lodash.castarray'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/lodash.castarray'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/mini-css-extract-plugin',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/mini-css-extract-plugin'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/mini-css-extract-plugin'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/makeerror',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/makeerror'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/makeerror'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/minipass',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/minipass'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/minipass'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/mimic-fn',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/mimic-fn'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/mimic-fn'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/node-releases',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/node-releases'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/node-releases'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/object-inspect',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/object-inspect'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/object-inspect'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/object.values',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/object.values'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/object.values'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/object.fromentries',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/object.fromentries'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/object.fromentries'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/path-exists',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/path-exists'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/path-exists'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/parent-module',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/parent-module'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/parent-module'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/to-fast-properties',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/to-fast-properties'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/to-fast-properties'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@babel/helper-module-transforms',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@babel/helper-module-transforms'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@babel/helper-module-transforms'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@babel/plugin-syntax-bigint',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@babel/plugin-syntax-bigint'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@babel/plugin-syntax-bigint'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@eslint-community/eslint-utils',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@eslint-community/eslint-utils'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@eslint-community/eslint-utils'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@babel/helper-split-export-declaration',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@babel/helper-split-export-declaration'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@babel/helper-split-export-declaration'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@babel/template',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@babel/template'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@babel/template'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@fastify/error',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@fastify/error'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@fastify/error'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@sinonjs/fake-timers',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@sinonjs/fake-timers'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@sinonjs/fake-timers'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@webassemblyjs/ast',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@webassemblyjs/ast'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@webassemblyjs/ast'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@istanbuljs/schema',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@istanbuljs/schema'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@istanbuljs/schema'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@popperjs/core',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@popperjs/core'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@popperjs/core'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/help-me',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/help-me'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/help-me'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/sqlite3/node_modules/glob',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/sqlite3/node_modules/glob'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/sqlite3/node_modules/glob'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@babel/highlight/node_modules/color-convert',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@babel/highlight/node_modules/color-convert'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@babel/highlight/node_modules/color-convert'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/p-locate',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/p-locate'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/p-locate'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/boxen/node_modules/ansi-regex',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/boxen/node_modules/ansi-regex'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/boxen/node_modules/ansi-regex'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/eslint-plugin-import/node_modules/debug',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/eslint-plugin-import/node_modules/debug'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/eslint-plugin-import/node_modules/debug'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/cacheable-request/node_modules/lowercase-keys',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/cacheable-request/node_modules/lowercase-keys'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/cacheable-request/node_modules/lowercase-keys'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/fastify-cli/node_modules/fastify-plugin',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/fastify-cli/node_modules/fastify-plugin'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/fastify-cli/node_modules/fastify-plugin'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/npm-check-updates/node_modules/ansi-regex',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/npm-check-updates/node_modules/ansi-regex'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/npm-check-updates/node_modules/ansi-regex'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/objection/node_modules/ajv',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/objection/node_modules/ajv'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/objection/node_modules/ajv'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/find-up',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/find-up'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@istanbuljs/load-nyc-config/node_modules/find-up'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/aproba',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/aproba'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/aproba'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/array.prototype.flat',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/array.prototype.flat'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/array.prototype.flat'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/arraybuffer.prototype.slice',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/arraybuffer.prototype.slice'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/arraybuffer.prototype.slice'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/schema-utils/node_modules/ajv-keywords',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/schema-utils/node_modules/ajv-keywords'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/schema-utils/node_modules/ajv-keywords'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/balanced-match',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/balanced-match'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/balanced-match'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/chalk',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/chalk'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/chalk'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/available-typed-arrays',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/available-typed-arrays'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/available-typed-arrays'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/bindings',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/bindings'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/bindings'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/concat-map',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/concat-map'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/concat-map'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/console-control-strings',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/console-control-strings'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/console-control-strings'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/clone-deep',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/clone-deep'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/clone-deep'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/defer-to-connect',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/defer-to-connect'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/defer-to-connect'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/co',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/co'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/co'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/@isaacs/cliui/node_modules/strip-ansi',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/@isaacs/cliui/node_modules/strip-ansi'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/@isaacs/cliui/node_modules/strip-ansi'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/dotenv',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/dotenv'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/dotenv'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/delegates',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/delegates'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/delegates'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/es-shim-unscopables',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/es-shim-unscopables'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/es-shim-unscopables'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/depd',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/depd'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/depd'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/esm',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/esm'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/esm'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/exit',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/exit'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/exit'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   [
+npm WARN cleanup     '/root/node_modules/file-uri-to-path',
+npm WARN cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/root/node_modules/file-uri-to-path'] {
+npm WARN cleanup       errno: -39,
+npm WARN cleanup       code: 'ENOTEMPTY',
+npm WARN cleanup       syscall: 'rmdir',
+npm WARN cleanup       path: '/root/node_modules/file-uri-to-path'
+npm WARN cleanup     }
+npm WARN cleanup   ],
+npm WARN cleanup   ... 139 more items
+npm WARN cleanup ]
+npm notice 
+npm notice New major version of npm available! 10.5.0 -> 11.15.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v11.15.0>
+npm notice Run `npm install -g npm@11.15.0` to update!
+npm notice 
+npm ERR! code 1
+npm ERR! path /root/node_modules/@vscode/sqlite3
+npm ERR! command failed
+npm ERR! command sh -c node-gyp rebuild
+npm ERR! make[1]: Entering directory '/root/node_modules/@vscode/sqlite3/build'
+npm ERR!   CC(target) Release/obj.target/nothing/../../node-addon-api/nothing.o
+npm ERR! rm -f Release/obj.target/../../node-addon-api/nothing.a Release/obj.target/../../node-addon-api/nothing.a.ar-file-list; mkdir -p `dirname Release/obj.target/../../node-addon-api/nothing.a`
+npm ERR! ar crs Release/obj.target/../../node-addon-api/nothing.a @Release/obj.target/../../node-addon-api/nothing.a.ar-file-list
+npm ERR!   COPY Release/nothing.a
+npm ERR!   ACTION deps_sqlite3_gyp_action_before_build_target_unpack_sqlite_dep Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c
+npm ERR!   TOUCH Release/obj.target/deps/action_before_build.stamp
+npm ERR!   CC(target) Release/obj.target/sqlite3/gen/sqlite-autoconf-3390400/sqlite3.o
+npm ERR! make[1]: Leaving directory '/root/node_modules/@vscode/sqlite3/build'
+npm ERR! gyp info it worked if it ends with ok
+npm ERR! gyp info using node-gyp@9.4.1
+npm ERR! gyp info using node@20.12.2 | linux | arm64
+npm ERR! gyp info find Python using Python version 3.11.2 found at "/usr/bin/python3"
+npm ERR! gyp http GET https://nodejs.org/download/release/v20.12.2/node-v20.12.2-headers.tar.gz
+npm ERR! gyp http 200 https://nodejs.org/download/release/v20.12.2/node-v20.12.2-headers.tar.gz
+npm ERR! gyp http GET https://nodejs.org/download/release/v20.12.2/SHASUMS256.txt
+npm ERR! gyp http 200 https://nodejs.org/download/release/v20.12.2/SHASUMS256.txt
+npm ERR! gyp info spawn /usr/bin/python3
+npm ERR! gyp info spawn args [
+npm ERR! gyp info spawn args   '/root/node_modules/node-gyp/gyp/gyp_main.py',
+npm ERR! gyp info spawn args   'binding.gyp',
+npm ERR! gyp info spawn args   '-f',
+npm ERR! gyp info spawn args   'make',
+npm ERR! gyp info spawn args   '-I',
+npm ERR! gyp info spawn args   '/root/node_modules/@vscode/sqlite3/build/config.gypi',
+npm ERR! gyp info spawn args   '-I',
+npm ERR! gyp info spawn args   '/root/node_modules/node-gyp/addon.gypi',
+npm ERR! gyp info spawn args   '-I',
+npm ERR! gyp info spawn args   '/home/node/.cache/node-gyp/20.12.2/include/node/common.gypi',
+npm ERR! gyp info spawn args   '-Dlibrary=shared_library',
+npm ERR! gyp info spawn args   '-Dvisibility=default',
+npm ERR! gyp info spawn args   '-Dnode_root_dir=/home/node/.cache/node-gyp/20.12.2',
+npm ERR! gyp info spawn args   '-Dnode_gyp_dir=/root/node_modules/node-gyp',
+npm ERR! gyp info spawn args   '-Dnode_lib_file=/home/node/.cache/node-gyp/20.12.2/<(target_arch)/node.lib',
+npm ERR! gyp info spawn args   '-Dmodule_root_dir=/root/node_modules/@vscode/sqlite3',
+npm ERR! gyp info spawn args   '-Dnode_engine=v8',
+npm ERR! gyp info spawn args   '--depth=.',
+npm ERR! gyp info spawn args   '--no-parallel',
+npm ERR! gyp info spawn args   '--generator-output',
+npm ERR! gyp info spawn args   'build',
+npm ERR! gyp info spawn args   '-Goutput_dir=.'
+npm ERR! gyp info spawn args ]
+npm ERR! gyp info spawn make
+npm ERR! gyp info spawn args [ 'BUILDTYPE=Release', '-C', 'build' ]
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c: In function 'cellArea':
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200223:22: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200223 |       case 5:  area  = p->aCoord[9].f - p->aCoord[8].f;
+npm ERR!        |                ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200224:7: note: here
+npm ERR! 200224 |       case 4:  area *= p->aCoord[7].f - p->aCoord[6].f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200224:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200224 |       case 4:  area *= p->aCoord[7].f - p->aCoord[6].f;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200225:7: note: here
+npm ERR! 200225 |       case 3:  area *= p->aCoord[5].f - p->aCoord[4].f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200225:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200225 |       case 3:  area *= p->aCoord[5].f - p->aCoord[4].f;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200226:7: note: here
+npm ERR! 200226 |       case 2:  area *= p->aCoord[3].f - p->aCoord[2].f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200226:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200226 |       case 2:  area *= p->aCoord[3].f - p->aCoord[2].f;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200227:7: note: here
+npm ERR! 200227 |       default: area *= p->aCoord[1].f - p->aCoord[0].f;
+npm ERR!        |       ^~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200233:22: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200233 |       case 5:  area  = (i64)p->aCoord[9].i - (i64)p->aCoord[8].i;
+npm ERR!        |                ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200234:7: note: here
+npm ERR! 200234 |       case 4:  area *= (i64)p->aCoord[7].i - (i64)p->aCoord[6].i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200234:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200234 |       case 4:  area *= (i64)p->aCoord[7].i - (i64)p->aCoord[6].i;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200235:7: note: here
+npm ERR! 200235 |       case 3:  area *= (i64)p->aCoord[5].i - (i64)p->aCoord[4].i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200235:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200235 |       case 3:  area *= (i64)p->aCoord[5].i - (i64)p->aCoord[4].i;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200236:7: note: here
+npm ERR! 200236 |       case 2:  area *= (i64)p->aCoord[3].i - (i64)p->aCoord[2].i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200236:21: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 200236 |       case 2:  area *= (i64)p->aCoord[3].i - (i64)p->aCoord[2].i;
+npm ERR!        |                ~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:200237:7: note: here
+npm ERR! 200237 |       default: area *= (i64)p->aCoord[1].i - (i64)p->aCoord[0].i;
+npm ERR!        |       ^~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c: In function 'rtreeCallbackConstraint':
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199362:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199362 |                 readCoord(pCellData+32, &c); aCoord[8] = c.f;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199363:7: note: here
+npm ERR! 199363 |       case 8:   readCoord(pCellData+28, &c); aCoord[7] = c.f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199364:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199364 |                 readCoord(pCellData+24, &c); aCoord[6] = c.f;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199365:7: note: here
+npm ERR! 199365 |       case 6:   readCoord(pCellData+20, &c); aCoord[5] = c.f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199366:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199366 |                 readCoord(pCellData+16, &c); aCoord[4] = c.f;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199367:7: note: here
+npm ERR! 199367 |       case 4:   readCoord(pCellData+12, &c); aCoord[3] = c.f;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199368:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199368 |                 readCoord(pCellData+8,  &c); aCoord[2] = c.f;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199369:7: note: here
+npm ERR! 199369 |       default:  readCoord(pCellData+4,  &c); aCoord[1] = c.f;
+npm ERR!        |       ^~~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199377:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199377 |                 readCoord(pCellData+32, &c); aCoord[8] = c.i;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199378:7: note: here
+npm ERR! 199378 |       case 8:   readCoord(pCellData+28, &c); aCoord[7] = c.i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199379:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199379 |                 readCoord(pCellData+24, &c); aCoord[6] = c.i;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199380:7: note: here
+npm ERR! 199380 |       case 6:   readCoord(pCellData+20, &c); aCoord[5] = c.i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199381:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199381 |                 readCoord(pCellData+16, &c); aCoord[4] = c.i;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199382:7: note: here
+npm ERR! 199382 |       case 4:   readCoord(pCellData+12, &c); aCoord[3] = c.i;
+npm ERR!        |       ^~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199383:56: warning: this statement may fall through [-Wimplicit-fallthrough=]
+npm ERR! 199383 |                 readCoord(pCellData+8,  &c); aCoord[2] = c.i;
+npm ERR!        |                                              ~~~~~~~~~~^~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:199384:7: note: here
+npm ERR! 199384 |       default:  readCoord(pCellData+4,  &c); aCoord[1] = c.i;
+npm ERR!        |       ^~~~~~~
+npm ERR! In function 'nodeReaderRelease',
+npm ERR!     inlined from 'fts3IncrmergeLoad' at Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:191462:9,
+npm ERR!     inlined from 'sqlite3Fts3Incrmerge' at Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:192117:14:
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:190903:23: warning: 'reader.term.a' may be used uninitialized [-Wmaybe-uninitialized]
+npm ERR! 190903 |   sqlite3_free(p->term.a);
+npm ERR!        |                ~~~~~~~^~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c: In function 'sqlite3Fts3Incrmerge':
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:191431:20: note: 'reader' declared here
+npm ERR! 191431 |         NodeReader reader;
+npm ERR!        |                    ^~~~~~
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c: At top level:
+npm ERR! Release/obj/gen/sqlite-autoconf-3390400/sqlite3.c:241715:1: fatal error: opening dependency file ./Release/.deps/Release/obj.target/sqlite3/gen/sqlite-autoconf-3390400/sqlite3.o.d.raw: No such file or directory
+npm ERR! 241715 | SQLITE_API const char *sqlite3_sourceid(void){ return SQLITE_SOURCE_ID; }
+npm ERR!        | ^~~~~~~~~~
+npm ERR! compilation terminated.
+npm ERR! make[1]: *** [deps/sqlite3.target.mk:138: Release/obj.target/sqlite3/gen/sqlite-autoconf-3390400/sqlite3.o] Error 1
+npm ERR! gyp ERR! build error 
+npm ERR! gyp ERR! stack Error: `make` failed with exit code: 2
+npm ERR! gyp ERR! stack     at ChildProcess.onExit (/root/node_modules/node-gyp/lib/build.js:203:23)
+npm ERR! gyp ERR! stack     at ChildProcess.emit (node:events:518:28)
+npm ERR! gyp ERR! stack     at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+npm ERR! gyp ERR! System Linux 6.8.0-100-generic
+npm ERR! gyp ERR! command "/usr/local/bin/node" "/root/node_modules/.bin/node-gyp" "rebuild"
+npm ERR! gyp ERR! cwd /root/node_modules/@vscode/sqlite3
+npm ERR! gyp ERR! node -v v20.12.2
+npm ERR! gyp ERR! node-gyp -v v9.4.1
+npm ERR! gyp ERR! not ok
+
+npm ERR! A complete log of this run can be found in: /home/node/.npm/_logs/2026-05-23T16_10_29_357Z-debug-0.log
+make: *** [Makefile:4: install] Error 1
