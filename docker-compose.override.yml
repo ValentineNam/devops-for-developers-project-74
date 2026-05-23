@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  app:
+    working_dir: /app
+    command: ["make", "dev"]
+    environment:
+      - NODE_ENV=development
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./app:/app
+    stdin_open: true
+    tty: true

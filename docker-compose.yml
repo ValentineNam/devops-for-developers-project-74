@@ -3,12 +3,10 @@ version: '3.9'
 services:
   app:
     build: .
-    container_name: fastify-blog
-    ports:
-      - "8080:8080"
-    environment:
-      - NODE_ENV=development
+    image: app:latest
+    working_dir: /app
     volumes:
       - ./app:/app
-    stdin_open: true
-    tty: true
+    environment:
+      - NODE_ENV=test
+    command: ["make", "test"]
