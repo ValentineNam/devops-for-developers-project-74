@@ -13,7 +13,8 @@ services:
       - DATABASE_PASSWORD=${DATABASE_PASSWORD:-password}
       - DATABASE_PORT=${DATABASE_PORT:-5432}
     depends_on:
-      - db
+      db:
+        condition: service_healthy
     command: ["make", "test"]
 
   db:
