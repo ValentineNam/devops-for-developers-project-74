@@ -19,8 +19,20 @@ jobs:
 
       - name: Install Docker Compose plugin
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker-compose-plugin
+          set -eux
+          arch=$(uname -m)
+          if [ "$arch" = "x86_64" ]; then
+            url="https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64"
+          elif [ "$arch" = "aarch64" ] || [ "$arch" = "arm64" ]; then
+            url="https://github.com/docker/compose/releases/latest/download/docker-compose-linux-aarch64"
+          else
+            echo "Unsupported architecture: $arch" >&2
+            exit 1
+          fi
+          sudo mkdir -p /usr/local/lib/docker/cli-plugins
+          sudo curl -L "$url" -o /usr/local/lib/docker/cli-plugins/docker-compose
+          sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+          docker compose version
 
       - name: Run tests with Docker Compose
         run: make ci
