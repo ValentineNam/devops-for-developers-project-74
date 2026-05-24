@@ -1,12 +1,11 @@
-version: '3.9'
-
 services:
   app:
-    build: .
-    image: app:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.production
+    image: v4lentinenam/javascript-fastify-blog:latest
     working_dir: /app
-    volumes:
-      - ./app:/app
     environment:
       - NODE_ENV=test
     command: ["make", "test"]
+
